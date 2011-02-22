@@ -29,7 +29,7 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
-
+gem 'webrat'
  group :development, :test do
       gem "rspec-rails", ">= 2.5.0"
     end
